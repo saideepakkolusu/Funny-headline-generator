@@ -174,7 +174,7 @@ Ensured consistent heading levels.
 
 Contact Section:
 
-Made the email address a direct clickable mailto link: [saideepak@example.com](mailto:saideepakkolusu39@gmail.com).
+Made the email address a direct clickable mailto link: [saideepak@kolusu39@gmail.com](mailto:saideepakkolusu39@gmail.com).
 
 Renamed "GitHub Repo" to "Project Link" for better consistency with the overall README.
 
