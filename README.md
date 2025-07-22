@@ -112,7 +112,7 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 📧 Contact
-Sai Deepak Kolusu - saideepak@example.com
+Sai Deepak Kolusu - saideepakkolusu39@gmail.com
 
 Project Link: https://github.com/saideepakkolusu/Funny-headline-generator
 
