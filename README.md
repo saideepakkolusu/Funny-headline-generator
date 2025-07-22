@@ -1,7 +1,3 @@
-This is a fantastic start! You've incorporated many professional elements like badges, a table of contents, and a clear structure. However, there are a few formatting and content issues that make it less "professional" than it could be.
-
-Here's the refined version, with explanations of the changes and why they improve the professional feel:
-
 📰 Funny Headline Generator
 A whimsical Python script that generates hilariously nonsensical, news-style headlines! Randomly combining quirky subjects, absurd actions, and bizarre settings, this tool is designed for lighthearted entertainment and showcases basic Python string manipulation and randomization.
 
@@ -178,7 +174,7 @@ Ensured consistent heading levels.
 
 Contact Section:
 
-Made the email address a direct clickable mailto link: [saideepak@example.com](mailto:saideepak@example.com).
+Made the email address a direct clickable mailto link: [saideepak@example.com](mailto:saideepakkolusu39@gmail.com).
 
 Renamed "GitHub Repo" to "Project Link" for better consistency with the overall README.
 
